@@ -1,0 +1,2 @@
+│        transport_unix_test.go:27: exec: "dbus-launch": executable file not found in $PATH
+
