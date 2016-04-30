@@ -4,7 +4,7 @@
 #
 Name     : golang-github-godbus-dbus
 Version  : 5f6efc7ef2759c81b7ba876593971bfce311eab3
-Release  : 2
+Release  : 3
 URL      : https://github.com/godbus/dbus/archive/5f6efc7ef2759c81b7ba876593971bfce311eab3.tar.gz
 Source0  : https://github.com/godbus/dbus/archive/5f6efc7ef2759c81b7ba876593971bfce311eab3.tar.gz
 Summary  : No detailed summary available
